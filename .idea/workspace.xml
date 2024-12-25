@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae0acfb6-2f6a-49f2-bc84-a8082371cb77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Genetic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genetic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/med_group.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Novice_project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_1/Rock, paper, scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_1/Rock, paper, scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_1/Черновик.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_10/test_gitHub.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_10/test_gitHub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_2/Contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_2/Contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_2/Черновик.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_3/Практика.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_3/Черновик.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_4/Черновик.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_7/Конспект.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_7/Конспект.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_8/Bankomat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_8/Bankomat.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qWyD8R9BBYcqMa23ji3PwxZ0rX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bot.executor": "Run",
+    "Python.buttons.executor": "Run",
+    "Python.database.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PycharmProjects\Genetic" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae0acfb6-2f6a-49f2-bc84-a8082371cb77" name="Changes" comment="" />
+      <created>1734792504297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734792504297</updated>
+    </task>
+    <servers />
+  </component>
+</project>
