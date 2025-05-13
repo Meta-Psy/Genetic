@@ -74,8 +74,10 @@ def admin_main_menu_bt():
     create_new_group = InlineKeyboardButton(text='Создать новую группу', callback_data='create_new_group')
     change_group_members = InlineKeyboardButton(text='Изменить участников группы', callback_data='change_group_members')
     change_group_photo = InlineKeyboardButton(text='Изменить фото группы', callback_data='change_group_photo')
+    upgrade_all_pro_status_bt = InlineKeyboardButton(text='Дать всем PRO', callback_data='upgrade_all_pro')
     kb.row(create_new_group)
     kb.row(change_group_members, change_group_photo)
+    kb.row(upgrade_all_pro_status_bt)
     kb.row(change_pass)
     return kb
 
@@ -121,4 +123,3 @@ def test_buttons(user, task):
     task_button = InlineKeyboardButton(text=task[0], callback_data=task[1])
     kb.add(task_button)
     return kb
-

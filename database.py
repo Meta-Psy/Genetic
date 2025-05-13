@@ -393,6 +393,14 @@ class Admin:
         con.commit()
         con.close()
 
+    @staticmethod
+    def upgrade_all_pro_status():
+        con = sqlite3.connect('MetaPsy_biology.db')
+        cursor = con.cursor()
+        cursor.execute('UPDATE users SET pro_status = ? WHERE user_id > ?;', (True, 0))
+        con.commit()
+        con.close()
+
 
     @staticmethod
     def remove_student_from_group(group_id, user_id):

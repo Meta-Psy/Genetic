@@ -5,7 +5,6 @@ import random
 from telebot.types import Message, PhotoSize
 from database import User, Admin, Group
 
-
 bot = telebot.TeleBot('7475946417:AAHRiC_nf5wur28BVcVD6SlKI-lXDmlRO2U')
 
 
@@ -73,7 +72,7 @@ def user_main_menu(message):
                                                        'segregation_fen', 'segregation_gen',
                                                        'change_pass', 'create_new_group',
                                                        'change_group_members', 'change_group_photo',
-                                                       'del_group'])
+                                                       'del_group', 'upgrade_all_pro'])
 def all_calls(call):
     user_id = call.message.chat.id
     if call.data == 'gametes_num':
@@ -181,6 +180,10 @@ def all_calls(call):
         bot.delete_message(user_id, call.message.message_id)
         bot.send_message(user_id, 'Введите имя вашей новой группы: ')
         bot.register_next_step_handler(call.message, get_group_name)
+    elif call.data == 'upgrade_all_pro':
+        bot.delete_message(user_id, call.message.message_id)
+        bot.send_message(user_id, 'Успешно обновлено')
+        Admin.upgrade_all_pro_status()
     elif call.data == 'del_group':
         bot.delete_message(user_id, call.message.message_id)
         groups = Group.get_all_groups()
@@ -201,6 +204,7 @@ def all_calls(call):
                                   'Чтобы вы хотели сделать еще?', reply_markup=bt.admin_main_menu_bt())
     elif call.data == 'change_group_photo':
         bot.delete_message(user_id, call.message.message_id)
+
 
 
 @bot.callback_query_handler(lambda call: 'delete_gr_' in call.data)
@@ -1130,4 +1134,4 @@ def segregation_gen(message, result, count=1, correct_answer=0):
         )
 
 
-bot.infinity_polling(timeout=10, long_polling_timeout=5)
+bot.infinity_polling(timeout=999, long_polling_timeout=5)

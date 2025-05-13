@@ -5,26 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae0acfb6-2f6a-49f2-bc84-a8082371cb77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Genetic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genetic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/med_group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Novice_project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/buttons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_1/Rock, paper, scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_1/Rock, paper, scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_1/Черновик.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_10/test_gitHub.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_10/test_gitHub.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_2/Contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_2/Contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_2/Конспект. Урок 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Novice_project/lesson_2/Конспект. Урок 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_2/Черновик.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_3/Практика.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Novice_project/lesson_3/Черновик.py" beforeDir="false" />
@@ -46,6 +37,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -56,17 +48,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.bot.executor": "Run",
-    "Python.buttons.executor": "Run",
-    "Python.database.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buttons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Alex\PycharmProjects\Genetic" />
